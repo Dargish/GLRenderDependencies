@@ -4,3 +4,5 @@
 !jsoncpp/jsoncpp-1.3.0/lib/*
 !glm/glm-0.9.6.1/glm/*.hpp
 !glm/glm-0.9.6.1/glm/*/*.hpp
+!glm/glm-0.9.6.1/glm/*/*.cpp
+!glm/glm-0.9.6.1/glm/*/*.inl
